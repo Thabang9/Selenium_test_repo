@@ -12,8 +12,8 @@ This project automates the testing of `https://practicesoftwaretesting.com/` usi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/selenium_test_repo.git
+   git clone https://github.com/Thabang9/Selenium_test_repo.git
 
-	2.	Open the project in an IDE like IntelliJ or Eclipse.
-	3.	Update the chromedriver path in MainTest.java.
-	4.	Run the test.
+2.Open the project in an IDE like IntelliJ or Eclipse.
+3.Update the chromedriver path in MainTest.java.
+4.Run the test.
